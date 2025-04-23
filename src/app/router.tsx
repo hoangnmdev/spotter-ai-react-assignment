@@ -1,6 +1,6 @@
 import { createBrowserRouter, RouterProvider, Outlet } from 'react-router-dom';
 
-import Header from '../components/Header';
+import Header from '@components/Header';
 import ErrorPage from './routes/ErrorPage';
 import { lazy } from 'react';
 
